@@ -2,13 +2,16 @@ theme: fill-in-the-blank word guessing game
 
 goals:
 
-  - create a start and ending of the game
-  - random each time game is run
-  - challenges with levels of difficulty
-  - achievements
+    - create a start and ending of the game
+    - random each time game is run
+    - challenges with levels of difficulty
+    - achievements
 
 8/2/2023
-  im trying to keep it simple but also make if fun so you want
-  to play it more than once. i like it so far, i want to clean 
-  it up more before i make it more difficult. im going to try
-  separating difficulty with different files in the directory.
+    im trying to keep it simple but also make if fun so you want
+    to play it more than once. i like it so far, i want to clean 
+    it up more before i make it more difficult. im going to try
+    separating difficulty with different files in the directory.
+
+8/3/2023
+    working on creating difficulty.
