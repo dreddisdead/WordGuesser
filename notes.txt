@@ -15,3 +15,9 @@ goals:
 
 8/3/2023
     working on creating difficulty.
+
+[gap since dad decided to {no longer be alive}]
+
+8/6/2023
+    can add however many levels i want. smooth transition to following
+    levels. error handling. high score keeping. want to add color maybe?
