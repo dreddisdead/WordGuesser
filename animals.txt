@@ -1,0 +1,10 @@
+Lion
+Tiger
+Bear
+Monkey
+Gorilla
+Koala
+Sloth
+Alligator
+Toad
+Pigeon
