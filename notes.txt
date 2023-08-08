@@ -21,3 +21,7 @@ goals:
 8/6/2023
     can add however many levels i want. smooth transition to following
     levels. error handling. high score keeping. want to add color maybe?
+
+8/7/2023
+    wasnt feeling much of a mood to code today. feeling funky but not
+    in a cash money way. decided to relax and take a break.
