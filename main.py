@@ -6,7 +6,7 @@ from random import randint
 # all words, you win! Otherwise, if you make 3 incorrect guesses it's game over. 
 
 # List of word files, ordered by difficulty
-word_files = ['food.txt', 'candy.txt', 'animals.txt'] # add more as needed
+word_files = ['food.txt', 'candy.txt', 'animal.txt', 'soda.txt', 'car.txt', 'dessert.txt', 'country.txt'] # add more as needed
 current_difficulty = 0
 
 def read_words_from_file(filename):
